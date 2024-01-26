@@ -37,9 +37,9 @@
 ## Usage
 
 1. Clone this repository locally
-2. Paste content of `stylesheets` folder inside your ModOrganizer 2 directory
-3. Select `import theme` and browse to where you cloned Catppuccin
-4. Select it
+2. Paste `stylesheets` folder into your ModOrganizer 2 directory
+3. Open ModOrganizer 2 settings window and go to `Styles` tab
+4. Select the theme you like
 
 ## 💝 Thanks to
 
